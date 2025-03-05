@@ -1,3 +1,0 @@
-@echo off
-echo Hello, batch file is working!
-pause
